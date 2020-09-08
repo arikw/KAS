@@ -4,6 +4,8 @@ KAS
 A lightweight JavaScript CAS for comparing expressions and equations.
 It is used throughout [Khan Academy](https://khanacademy.org)'s interactive exercises.
 
+This library is forked from [https://github.com/Khan/KAS](https://github.com/Khan/KAS) to address some minor issues
+
 What can it do?
 ---------------
 
